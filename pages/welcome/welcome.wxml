@@ -1,0 +1,4 @@
+<!--pages/welcome/welcome.wxml-->
+<text></text>
+<button bindtap='scan'>扫一扫</button>
+<view>倒计时:<text style='color: red'>{{countDownNum}}</text>s</view>
